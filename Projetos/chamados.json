@@ -1,7 +1,23 @@
 [
     {
-        "nome": "Kauã Perez ",
-        "problema": "Meu pc está com erros",
-        "prioridade": " 3"
+        "id": 1,
+        "nome": "Kauã Perez",
+        "problema": "Meu pc está com tela azul",
+        "prioridade": "2",
+        "status": "Em andamento"
+    },
+    {
+        "id": 2,
+        "nome": "Mariana regina",
+        "problema": "Meu pc está com queda de fps",
+        "prioridade": "1",
+        "status": "Aberto"
+    },
+    {
+        "id": 3,
+        "nome": "Edson",
+        "problema": "MEU PC ESTÁ EM CAPSLOCK PARA SEMPRE MEU DEUS!!!!!!111",
+        "prioridade": "4",
+        "status": "Resolvido"
     }
 ]

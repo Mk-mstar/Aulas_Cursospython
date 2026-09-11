@@ -18,7 +18,7 @@ print('============== SISTEMA HELP DESK ==============')
 print('''Escolha uma das opções:
 
 1 - Abrir chamado
-2 - Ver chamadosz
+2 - Ver chamados
 3 - Pesquisar chamado
 4 - Atualizar chamado
 5 - Fechar chamado

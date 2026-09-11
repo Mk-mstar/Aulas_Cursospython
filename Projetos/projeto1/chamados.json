@@ -19,5 +19,19 @@
         "problema": "MEU PC ESTÁ EM CAPSLOCK PARA SEMPRE MEU DEUS!!!!!!111",
         "prioridade": "4",
         "status": "Resolvido"
+    },
+    {
+        "id": 4,
+        "nome": "a",
+        "problema": "a",
+        "prioridade": "2",
+        "status": "Aberto"
+    },
+    {
+        "id": 5,
+        "nome": "mariana",
+        "problema": "meu pc ta travando",
+        "prioridade": "3",
+        "status": "Resolvido"
     }
 ]
